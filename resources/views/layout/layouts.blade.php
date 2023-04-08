@@ -85,7 +85,7 @@
         <div
           class="p-5 text-center bg-image"
           style="
-            background-image: url('https://th.bing.com/th/id/OIP.HBycsAQGExXvkfCV6eFwMwHaE-?pid=ImgDet&rs=1');
+            background-image: url('https://www.gasteizhoy.com/wp-content/uploads/2020/10/videojuegos-menores.jpg');
             height: 400px;
           "
         >

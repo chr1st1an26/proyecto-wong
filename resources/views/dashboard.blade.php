@@ -11,7 +11,7 @@ proyecto
 <div class="row row-cols-1 row-cols-md-2 g-4">
   <div class="col">
     <div class="card">
-      <img src="https://th.bing.com/th/id/R.9d84de07e43c64cf79db113a1ffc0120?rik=w7Ba5PaTDHQ9SA&riu=http%3a%2f%2f3.bp.blogspot.com%2f-51fY7E_ChOo%2fU17muLIroPI%2fAAAAAAAAAgU%2fFhGJln5vw7I%2fs1600%2fpepa.jpg&ehk=xUhVcIFVy4mjbdLIWrFwmEALP6CM3dYvN3ogCbp60aI%3d&risl=&pid=ImgRaw&r=0"/>
+      <img src="https://th.bing.com/th/id/OIP.6urpo0DiUfWFejpX3XOEAwHaEK?pid=ImgDet&rs=1"/>
       <div class="card-body">
         <h5 class="card-title">crash bandicoot</h5>
         <p class="card-text">
@@ -31,7 +31,7 @@ proyecto
                 <button type="button" class="btn-close" data-mdb-dismiss="modal" aria-label="Close"></button>
               </div>
               <div class="modal-body">
-                <img src="https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/red%20bull.jpg" class="card-img-top" alt="Hollywood Sign on The Hill"/>
+                <img src="https://th.bing.com/th/id/OIP.6urpo0DiUfWFejpX3XOEAwHaEK?pid=ImgDet&rs=1" class="card-img-top" alt="Hollywood Sign on The Hill"/>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-mdb-dismiss="modal">Close</button>
@@ -46,9 +46,9 @@ proyecto
   </div>
   <div class="col">
     <div class="card">
-      <img src="https://www.expressandstar.com/resizer/5lHh4C4vJuhC03oji3_w9SHLLZM=/1000x0/filters:quality(100)/arc-anglerfish-arc2-prod-expressandstar-mna.s3.amazonaws.com/public/GW55M4LRI5CDVOG6RJLRC5NHK4.jpg" class="card-img-top" alt="Palm Springs Road"/>
+      <img src="https://static2.thegamerimages.com/wordpress/wp-content/uploads/2020/04/Rocket-League-Feature-Cropped-1.jpg" class="card-img-top" alt="Palm Springs Road"/>
       <div class="card-body">
-        <h5 class="card-title">Armas de jefes</h5>
+        <h5 class="card-title">Rocket league</h5>
         <p class="card-text">
         Rocket League es un videojuego que combina el fútbol con los vehículos. Fue desarrollado por Psyonix y lanzado el 7 de julio de 2015. Fue lanzado Free to play en septiembre de 2020. Se encuentra disponible en español, y tiene modos de juego cooperativo, de un jugador y en línea.
         </p>
@@ -65,7 +65,7 @@ proyecto
                 <button type="button" class="btn-close" data-mdb-dismiss="modal" aria-label="Close"></button>
               </div>
               <div class="modal-body">
-      <img src="https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/red%20bull.jpg" class="card-img-top" alt="Palm Springs Road"/>
+      <img src="https://static2.thegamerimages.com/wordpress/wp-content/uploads/2020/04/Rocket-League-Feature-Cropped-1.jpg" class="card-img-top" alt="Palm Springs Road"/>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-mdb-dismiss="modal">Close</button>
@@ -79,9 +79,9 @@ proyecto
   </div>
   <div class="col">
     <div class="card">
-      <img src="https://yt3.ggpht.com/a-/AAuE7mCmpwM7nJEWG8JUuIZZDKVokwy0hFIjBClrFQ=s900-mo-c-c0xffffffff-rj-k-no" class="card-img-top" alt="Los Angeles Skyscrapers"/>
+      <img src="https://gameranx.com/wp-content/uploads/2020/02/MinecraftList1.jpg" class="card-img-top" alt="Los Angeles Skyscrapers"/>
       <div class="card-body">
-        <h5 class="card-title">Arco</h5>
+        <h5 class="card-title">Minecraft</h5>
         <p class="card-text">Minecraft es un videojuego de construcción de tipo «mundo abierto» o sandbox creado originalmente por el sueco Markus Persson, ​ y posteriormente desarrollado por Mojang Studios.​.</p>
         <!-- Button trigger modal -->
         <button type="button" class="btn btn-primary" data-mdb-toggle="modal" data-mdb-target="#exampleModal3">
@@ -92,11 +92,11 @@ proyecto
           <div class="modal-dialog">
             <div class="modal-content">
               <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLabel">One Piece: Estampida</h5>
+                <h5 class="modal-title" id="exampleModalLabel">minecraft</h5>
                 <button type="button" class="btn-close" data-mdb-dismiss="modal" aria-label="Close"></button>
               </div>
               <div class="modal-body">
-      <img src="https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/red%20bull.jpg" class="card-img-top" alt="Los Angeles Skyscrapers"/>
+      <img src="https://gameranx.com/wp-content/uploads/2020/02/MinecraftList1.jpg" class="card-img-top" alt="Los Angeles Skyscrapers"/>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-mdb-dismiss="modal">Close</button>
@@ -110,9 +110,9 @@ proyecto
   </div>
   <div class="col">
     <div class="card">
-      <img src="https://th.bing.com/th/id/R.b82ac88600d81a78417e68061b1d8fdc?rik=hvi7Vm7ySFb69A&riu=http%3a%2f%2fimages.nickjr.com%2fnickjr%2fproperties%2fpeppa-pig%2fpeppa-pig-1x1.jpg&ehk=b7GPTpD%2b%2bIsW76dbD4FAAPSmprXkanNUyTFOX36RrZc%3d&risl=&pid=ImgRaw&r=0" class="card-img-top" alt="Skyscrapers"/>
+      <img src="https://th.bing.com/th/id/R.f233601625677d40ba3ea046d8782794?rik=TF7s5ejfo7r84Q&pid=ImgRaw&r=0" class="card-img-top" alt="Skyscrapers"/>
       <div class="card-body">
-        <h5 class="card-title">Alabarda</h5>
+        <h5 class="card-title">Fornite</h5>
         <p class="card-text">
         Fortnite es un videojuego del año 2017 desarrollado por la empresa Epic Games lanzado como diferentes paquetes de software que presentan diferentes modos de juego, pero que comparten el mismo motor de juego y mecánicas. Fue anunciado en los premios Spike Video Game Awards en 2011
         </p>
@@ -129,7 +129,7 @@ proyecto
                 <button type="button" class="btn-close" data-mdb-dismiss="modal" aria-label="Close"></button>
               </div>
               <div class="modal-body">
-      <img src="https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/mclaren.jpg" class="card-img-top" alt="Skyscrapers"/>
+      <img src="https://th.bing.com/th/id/OIP.ARiYGLk-zeGa-eAhMKLbrQHaEK?pid=ImgDet&rs=1" class="card-img-top" alt="Skyscrapers"/>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-mdb-dismiss="modal">Close</button>
@@ -143,11 +143,11 @@ proyecto
   </div>
   <div class="col">
     <div class="card">
-      <img src="https://th.bing.com/th/id/OIP.b6cvDqgi5yESgZJhkqXavQHaLH?pid=ImgDet&rs=1" class="card-img-top" alt="Skyscrapers"/>
+      <img src="https://th.bing.com/th/id/OIP.ARiYGLk-zeGa-eAhMKLbrQHaEK?pid=ImgDet&rs=1" class="card-img-top" alt="Skyscrapers"/>
       <div class="card-body">
-        <h5 class="card-title">OFall guys</h5>
+        <h5 class="card-title">Fall guys</h5>
         <p class="card-text">
-          Un ex-almirante de la Marina roba el Dyna Stones, y se cruza en el camino de los Piratas de Sombrero de Paja.
+          juego creado en el año 2020.
         </p>
         <!-- Button trigger modal -->
         <button type="button" class="btn btn-primary" data-mdb-toggle="modal" data-mdb-target="#exampleModal5">
@@ -177,6 +177,7 @@ proyecto
  
   </div>
 
+  <!--xdxd-->
 
 
   <div class="card-body text-dark" style="background-color: rgba(128, 128, 128, 0.10)">
